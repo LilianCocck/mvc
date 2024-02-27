@@ -1,0 +1,19 @@
+{
+    "description": "Lilian Aulas de PHP ",
+    "authors": [
+        {
+            "name": "Lilian Cristina dos Santos Coccki",
+            "email": "liliancoccki@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Sts\\":"app/sts",
+            "Core\\":"core"
+        }
+    },
+    "require": {
+        
+    }
+    
+}
